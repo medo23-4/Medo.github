@@ -1,5 +1,26 @@
 
 
+Package: com.tigisoftware.filza
+Name: Filza File Manager
+Version: 4.0.1-3
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Filename: ./debs/filza_4.0.1-3.deb
+Size: 10215790
+MD5sum: 60322f74b0e669a35c04e3d864241e1e
+SHA1: 5f55e3c714ee9e81bad34bebb279201490014bd6
+SHA256: 4482445297cce926faede628d911bfc99ec0de5fafcea94e569dc59f6c169341
+Section: Utilities
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Author: BigBoss <bigboss@thebigboss.org>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
+SileoDepiction: 
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+Installed-size: 9977
+
+
+
+
 Package: com.bandarhl.BHTwitter
 Name: BHTwitter
 Version: 4.0
